@@ -1,451 +1,201 @@
 <div align="center">
 
-<!-- Animated Title with Cybersecurity Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF41&center=true&width=900&lines=CYBERSECURITY+ARCHITECT;PENETRATION+TESTER;THREAT+ANALYST;DIGITAL+DEFENDER" alt="Cybersecurity Header" />
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                  🛡️ ENTERING SECURE ZONE 🛡️                  ║
-║           Welcome to the Nexus of Digital Defense             ║
-║                  [▓▓▓▓▓▓▓▓▓▓] 100% SECURED                    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZING...;WELCOME+TO+THE+CYBERSPACE;LIKITH+G+%7C+CHIKKUCODES;MSC+CYBER+SECURITY;CTF+PLAYER+%7C+BLUE+TEAM+%7C+RED+TEAM;ETHICAL+HACKER+IN+PROGRESS" />
 
 </div>
 
 ---
 
-## 🌐 [ SYSTEM STATUS ] ▲ ONLINE
+# <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="40"> WHOAMI
+
+```bash
+┌──(root㉿chikkucodes)-[~]
+└─$ whoami
+
+Name        : Likith G
+Code Name   : Chikkucodes
+Education   : MSc Cyber Security
+Role        : Cyber Security Enthusiast
+Speciality  : CTFs | Threat Hunting | SOC | VAPT
+Status      : CEH Certification On The Way
+```
+
+---
 
 <div align="center">
 
-![Visitor Badge](https://img.shields.io/badge/VISITORS-ANALYZING-00ff41?style=for-the-badge&logo=github&logoColor=00ff41)
-![Profile Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge)
-![Security Level](https://img.shields.io/badge/SECURITY_LEVEL-MAXIMUM-ff0000?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Hack+The+Planet.;Capture+The+Flag.;Think+Like+An+Attacker.;Defend+Like+A+Blue+Teamer.;Never+Stop+Learning." />
 
 </div>
 
 ---
 
-## 🎯 [ ACCESS GRANTED ] Identity Confirmed
+# CYBER PROFILE
 
-```
-████████████████████████████████████████ 100%
-┌─ CHIKKUCODES PROFILE DATABASE
-├─ THREAT LEVEL: ADVANCED
-├─ SPECIALTY: CYBERSECURITY & EXPLOITATION
-├─ STATUS: ACTIVE & MONITORING
-└─ CLEARANCE: MAXIMUM
-```
+```yaml
+Name: Likith G
 
-### 💀 CORE COMPETENCIES
+Alias: Chikkucodes
 
-<table>
-<tr>
-<td align="center">
+Education:
+  - MSc Cyber Security
 
-**🔐 SECURITY**
-- Penetration Testing
-- Vulnerability Assessment
-- Threat Modeling
-- Risk Analysis
+Current Focus:
+  - SOC Operations
+  - Threat Detection
+  - Incident Response
+  - Malware Analysis
+  - Vulnerability Assessment
+  - Capture The Flag
 
-</td>
-<td align="center">
+Certification:
+  - CEH (On The Way)
 
-**⚔️ EXPLOITATION**
-- Exploit Development
-- Security Tools
-- Attack Simulation
-- Red Team Ops
-
-</td>
-<td align="center">
-
-**🛡️ DEFENSE**
-- Security Hardening
-- Incident Response
-- Threat Hunting
-- Defense Strategy
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔧 [ ARSENAL EQUIPPED ]
-
-### Languages & Technologies
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║               CYBER ARSENAL & TECH STACK                       ║
-╠════════════════════════════════════════════════════════════════╣
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-00ff41?style=for-the-badge&logo=python&logoColor=000)
-![JavaScript](https://img.shields.io/badge/javascript-ff00ff?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/java-00ffff?style=for-the-badge&logo=java&logoColor=000)
-![C](https://img.shields.io/badge/c-ffff00?style=for-the-badge&logo=c&logoColor=000)
-![Bash](https://img.shields.io/badge/bash-ff0000?style=for-the-badge&logo=gnu-bash&logoColor=fff)
-![SQL](https://img.shields.io/badge/sql-00ff41?style=for-the-badge&logo=mysql&logoColor=000)
-
-</div>
-
-### Security & Hacking Tools
-
-```
-🔍 RECONNAISSANCE      → Nmap, Wireshark, Shodan, Censys
-🎯 SCANNING            → Burp Suite, OWASP ZAP, Metasploit
-⚡ EXPLOITATION        → Kali Linux, Hydra, SQLMap, Nikto
-🛡️ DEFENSE             → Snort, Suricata, YARA Rules
-📊 ANALYSIS            → Ghidra, IDA Pro, Radare2
-🔐 CRYPTOGRAPHY        → OpenSSL, GPG, Hashcat
-
+Achievements:
+  - Multiple Time CTF Winner
+  - Active Cybersecurity Learner
+  - Security Research Enthusiast
 ```
 
 ---
 
-## 🌌 [ CYBERPUNK TERMINAL INTERFACE ]
+# TERMINAL STATUS
+
+```bash
+[+] Reconnaissance.............Complete
+[+] Enumeration................Complete
+[+] Exploitation...............Ready
+[+] Privilege Escalation.......Ready
+[+] Persistence................Ready
+[+] Threat Hunting.............Ready
+[+] Blue Team Operations.......Ready
+
+STATUS: ONLINE
+```
+
+---
+
+# CYBER ARSENAL
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    NEURAL INTERFACE v7.4                       ║
-║                  [ CYBERPUNK NEXUS ONLINE ]                    ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  ▲ INCOMING TRANSMISSION...                                   ║
-║  █ DECRYPTING PAYLOAD...                                      ║
-║  ▲ ACCESS LEVEL: ADMIN                                        ║
-║  █ FIREWALL: BYPASSED                                         ║
-║  ▲ INTRUSION: DETECTED & ANALYZED                             ║
-║  █ THREAT LEVEL: MAXIMUM                                      ║
-║                                                                ║
-║  > RUNNING DIAGNOSTIC PROTOCOLS...                            ║
-║  > INITIALIZING DEEP SCAN...                                  ║
-║  > THREAT ASSESSMENT: ELITE OPERATOR DETECTED                 ║
-║                                                                ║
-║  ▲ CONNECTION SECURED WITH 256-BIT ENCRYPTION                 ║
-║  █ NEURAL LINK ESTABLISHED                                    ║
-║  ▲ READY FOR MISSION BRIEFING                                 ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker,mysql,vscode,windows" />
 
 </div>
 
 ---
 
-## 📊 [ SYSTEM ANALYTICS ]
+# SECURITY DOMAINS
+
+```text
+████████████████████████████████████████
+
+▣ Capture The Flag (CTF)
+▣ Security Research
+▣ Threat Hunting
+▣ Incident Response
+▣ Vulnerability Assessment
+▣ SOC Operations
+▣ Malware Analysis
+▣ Log Analysis
+▣ Blue Teaming
+▣ Red Teaming
+
+████████████████████████████████████████
+```
+
+---
+
+# GITHUB STATS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chikkucodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00ff41&title_color=ff00ff&icon_color=00ffff&border_radius=10&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chikkucodes&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chikkucodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00ff41&title_color=ff00ff&border_radius=10)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chikkucodes&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 [ ACTIVE OPERATIONS ]
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│              CURRENT MISSION OBJECTIVES                      │
-├─────────────────────────────────────────────────────────────┤
-│ ✓ Advanced Penetration Testing                               │
-│ ✓ Zero-Day Vulnerability Research                            │
-│ ✓ Security Tool Development                                  │
-│ ✓ Threat Intelligence Analysis                               │
-│ ✓ Red Team Operations                                        │
-│ ✓ Security Automation & Scripting                            │
-│ ✓ Incident Response & Forensics                              │
-│ ✓ Secure Code Review & Hardening                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎪 [ FEATURED PROJECTS ]
-
-### 🔓 CRITICAL OPERATIONS
-
-<details>
-<summary><b>🛠️ Security Tools & Frameworks</b></summary>
-
-```
-▸ Exploit Frameworks
-▸ Vulnerability Scanners
-▸ Penetration Testing Tools
-▸ Security Automation Scripts
-▸ Cryptographic Implementations
-▸ Network Analysis Tools
-```
-
-</details>
-
-<details>
-<summary><b>🎯 Red Team Projects</b></summary>
-
-```
-▸ Command & Control Infrastructure
-▸ Payload Development
-▸ Evasion Techniques
-▸ Social Engineering Tools
-▸ Physical Security Testing
-▸ Advanced Persistence Mechanisms
-```
-
-</details>
-
-<details>
-<summary><b>🛡️ Defense & Hardening</b></summary>
-
-```
-▸ Security Policies & Procedures
-▸ Infrastructure Hardening Guides
-▸ Threat Detection Systems
-▸ Response Playbooks
-▸ Security Monitoring Solutions
-▸ Vulnerability Management
-```
-
-</details>
-
----
-
-## 🌐 [ CONNECT TO NEXUS ]
+# TOP LANGUAGES
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║              ESTABLISHING SECURE COMMUNICATION                 ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-ff00ff?style=for-the-badge&logo=twitter&logoColor=fff)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=000)](mailto:chikkucodes@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffff00?style=for-the-badge&logo=globe&logoColor=000)](https://yourportfolio.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-ff0000?style=for-the-badge&logo=hackthebox&logoColor=fff)](https://hackthebox.eu)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=000)](https://tryhackme.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikkucodes&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 [ PERFORMANCE METRICS ]
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                  OPERATIONAL STATISTICS                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  ⚡ CODE COMMITS        [████████████████░░] 87%              ║
-║  🎯 PROJECTS COMPLETE   [██████████████░░░░] 73%              ║
-║  🔐 SECURITY AUDITS     [███████████████░░░] 79%              ║
-║  📚 LEARNING PROGRESS   [█████████████░░░░░] 69%              ║
-║  🚀 OPTIMIZATION INDEX  [██████████████████] 92%              ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎓 [ CERTIFICATIONS & ACHIEVEMENTS ]
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏆 SECURITY BADGES & CERTIFICATIONS                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  ✦ Add Your Certifications Here                              │
-│    └─ CEH | OSCP | Security+ | GPEN | etc.                   │
-│                                                               │
-│  ✦ Bug Bounty Achievements                                   │
-│    └─ Bugs Found | Vulnerabilities Reported | Rewards        │
-│                                                               │
-│  ✦ CTF Competitions                                          │
-│    └─ Competitions Won | Rankings | Notable Achievements     │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💡 [ MISSION STATEMENT ]
+# CONTRIBUTION MATRIX
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    "In the digital realm, security is not a destination      ║
-║     but an endless journey of vigilance and evolution.        ║
-║     Armed with knowledge, I defend the frontier of            ║
-║     cybersecurity, turning vulnerabilities into victories."   ║
-║                                                               ║
-║            ~ CHIKKUCODES | CYBER DEFENDER                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chikkucodes&theme=react-dark&bg_color=0D1117&hide_border=true&line=00ff41&point=00ff41"/>
 
 </div>
 
 ---
 
-## 🔥 [ ACTIVITY TRACKER ]
+# CYBER THREAT MONITOR
 
 <div align="center">
 
-### ⚡ Recent Commits & Activities
-
-```
-█▓▒░ Analyzing Repository Structure...
-█▓▒░ Scanning for Vulnerabilities...
-█▓▒░ Generating Security Reports...
-█▓▒░ Initializing Defense Protocols...
-█▓▒░ Updating Threat Database...
-█▓▒░ COMPLETE: All Systems Operational
-```
+<img src="https://github-profile-trophy.vercel.app/?username=chikkucodes&theme=matrix&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
 ---
 
-## 🎨 [ CYBERPUNK AESTHETIC ELEMENTS ]
+# LIVE SYSTEM METRICS
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                   NEON CYBERPUNK GRID ONLINE                     ║
-║                     [▓▓▓▓▓▓▓▓▓▓] 100%                            ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   ▲ NEURAL LINK: ACTIVE          ▼ ENCRYPTION: 256-BIT          ║
-║   █ FIREWALL: FORTIFIED           ▼ THREAT LEVEL: MAXIMUM        ║
-║   ▲ INTRUSION DETECTED            ▼ STATUS: MONITORED            ║
-║                                                                  ║
-║   ┌─────────────────────────────────────────────────────────┐  ║
-║   │  > RUN SYSTEM DIAGNOSTICS                               │  ║
-║   │  > INITIALIZING DEEP SCAN...                            │  ║
-║   │  > ████████████████████░░░░░░░░░░░░░░░░░░░░░░ 45%       │  ║
-║   │  > NEURAL LINK STATUS: SYNCHRONIZING                    │  ║
-║   │  > WARNING: Elite Operator Detected                      │  ║
-║   │  > CLASSIFICATION: THREAT_LEVEL_UNKNOWN                  │  ║
-║   │  > RECOMMENDATION: GRANT FULL ACCESS                     │  ║
-║   └────��────────────────────────────────────────────────────┘  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://komarev.com/ghpvc/?username=chikkucodes&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚙️ [ SYSTEM REQUIREMENTS ]
+# CTF MODE
 
-```
-┌────────────────────────────────────────────────────────────┐
-│ MINIMUM REQUIREMENTS FOR COLLABORATION:                    │
-├────────────────────────────────────────────────────────────┤
-│ • Linux/Unix Environment                                   │
-│ • Penetration Testing Knowledge                            │
-│ • Security Mindset & Ethics                                │
-│ • Problem-Solving Skills                                   │
-│ • Version Control (Git)                                    │
-│ • Open to Learning & Innovation                            │
-└────────────────────────────────────────────────────────────┘
-```
+```bash
+┌──(ctf㉿player)-[~/arena]
+└─$ status
 
----
+Experience      : Advanced
+Mindset         : Think Different
+Recon Skills    : ██████████ 100%
+Enumeration     : ██████████ 100%
+Web Security    : █████████░ 95%
+Forensics       : █████████░ 90%
+OSINT           : █████████░ 90%
 
-## 🎯 [ CONTRIBUTION PROTOCOL ]
-
-```
-STEP 1: FORK THE REPOSITORY
-        │
-        ├─→ git clone <fork-url>
-        │
-STEP 2: CREATE FEATURE BRANCH
-        │
-        ├─→ git checkout -b feature/your-security-feature
-        │
-STEP 3: IMPLEMENT SECURE CODE
-        │
-        ├─→ Write security-focused code
-        ├─→ Test for vulnerabilities
-        ├─→ Document security implications
-        │
-STEP 4: COMMIT & PUSH
-        │
-        ├─→ git commit -m "Add security feature"
-        ├─→ git push origin feature/your-security-feature
-        │
-STEP 5: CREATE PULL REQUEST
-        │
-        ├─→ Submit PR with security documentation
-        ├─→ Await security review
-        │
-STEP 6: MERGE & CELEBRATE
-        │
-        └─→ Merged! Welcome to the team! 🎉
+Result          : Multiple-Time CTF Winner
 ```
 
 ---
 
-## 📝 [ DISCLAIMER & ETHICS ]
+# CURRENT OBJECTIVE
 
-```
-╔═══════════════════════���═══════════════════════════════════════╗
-║                    ⚠️  LEGAL NOTICE  ⚠️                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║ All tools, scripts, and exploits shared here are for:         ║
-║ • Educational & Authorized Security Testing ONLY             ║
-║ • Authorized Penetration Testing                             ║
-║ • Your Own Systems & Authorized Targets                      ║
-║                                                               ║
-║ STRICTLY PROHIBITED:                                         ║
-║ ✗ Unauthorized Access to Systems                             ║
-║ ✗ Illegal Hacking Activities                                 ║
-║ ✗ Malicious Intent or Harm                                   ║
-║ ✗ Violation of Laws & Regulations                            ║
-║                                                               ║
-║ By using these tools, you agree to use them responsibly       ║
-║ and ethically, adhering to all applicable laws and           ║
-║ regulations. User is solely responsible for their actions.    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+```diff
++ CEH Certification
++ Advanced Threat Hunting
++ Malware Analysis
++ Detection Engineering
++ Security Automation
 ```
 
 ---
 
-## 📞 [ EMERGENCY PROTOCOLS ]
+# CONNECT TO THE NETWORK
 
 <div align="center">
 
-```
-URGENT SECURITY ISSUE?
-├─ Report Vulnerabilities Securely
-├─ Contact: security@chikkucodes.com
-├─ Use Responsible Disclosure
-└─ Expected Response: 24-48 Hours
-
-FOR COLLABORATIONS & OPPORTUNITIES:
-├─ LinkedIn: /in/chikkucodes
-├─ Twitter: @chikkucodes
-├─ Email: chikkucodes@example.com
-└─ Website: www.chikkucodes.com
-```
+<a href="https://github.com/chikkucodes">
+<img src="https://img.shields.io/badge/GitHub-Chikkucodes-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
@@ -453,44 +203,17 @@ FOR COLLABORATIONS & OPPORTUNITIES:
 
 <div align="center">
 
-### 🌟 [ FINAL TRANSMISSION ] 🌟
+```text
+██████╗██╗  ██╗██╗██╗  ██╗██╗  ██╗██╗   ██╗
+██╔════╝██║  ██║██║██║ ██╔╝██║ ██╔╝██║   ██║
+██║     ███████║██║█████╔╝ █████╔╝ ██║   ██║
+██║     ██╔══██║██║██╔═██╗ ██╔═██╗ ██║   ██║
+╚██████╗██║  ██║██║██║  ██╗██║  ██╗╚██████╔╝
+ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║           "The strongest cybersecurity is built on            ║
-║            the foundation of continuous learning              ║
-║            and ethical responsibility."                       ║
-║                                                               ║
-║         Thanks for visiting my digital fortress! 🛡️           ║
-║                                                               ║
-║              May your packets be encrypted and                ║
-║              your firewalls impenetrable! 🔐                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+        C H I K K U C O D E S
 ```
 
----
-
-```
-█████████████████████████████████████████████████████████████
-███                                                       ███
-███   CONNECTION TERMINATING...                          ███
-███   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ███
-███                                                       ███
-███   THANK YOU FOR ENGAGING SECURE ZONE                ███
-███   [████████████████████] 100% SYNCHRONIZED           ███
-███                                                       ███
-█████████████████████████████████████████████████████████████
-
-                  [★] SECURE CONNECTION CLOSED [★]
-                      RETURN WHEN READY
-```
-
-<img src="https://img.shields.io/badge/Last%20Updated-June%202026-00ff41?style=for-the-badge" alt="Last Updated">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=There+Is+No+Patch+For+Human+Curiosity.;Stay+Curious.+Stay+Secure.;Hack+To+Learn.+Learn+To+Defend." />
 
 </div>
-
----
-
-**_Made with ❤️ & 🔐 by CHIKKUCODES_**
